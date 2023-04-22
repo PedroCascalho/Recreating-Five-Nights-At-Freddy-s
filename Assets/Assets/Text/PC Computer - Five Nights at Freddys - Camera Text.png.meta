@@ -1,0 +1,1597 @@
+fileFormatVersion: 2
+guid: 98ddbc57514e48449806972f75002966
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2601
+        width: 601
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1e02a5e88614b47aa596f2fe707cac
+      internalID: -1571243066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2564
+        width: 123
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7486fcbf6cbdc44b090baac9cfdcca
+      internalID: 847732992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2348
+        width: 203
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbad0844b8a90974ea3e3dccbcb34fe1
+      internalID: 1262906431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2290
+        width: 372
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154bac6fd934022419a4a2f933f4447e
+      internalID: -2002509842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2260
+        width: 286
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9651e9755da16464d9c48f1fc2a4f938
+      internalID: -150326699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2230
+        width: 219
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca7b8cf3fd092b4ea6db99d898bc4ca
+      internalID: -29867033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2198
+        width: 263
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e96e623e57a094c8a633a91c3115b2
+      internalID: -1659274632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2168
+        width: 196
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26431fa7e967f04494d53ec6f78f84a
+      internalID: 17098855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2138
+        width: 241
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a9170033bcfd4eb30b189b92f3569
+      internalID: -980410881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2110
+        width: 230
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a3cd8a6c08ef4dbd255ced38f5a7f
+      internalID: 1198064021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2080
+        width: 185
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3b303fc1811c84caf024d158c6db0d
+      internalID: 1545746950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2084
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeaaff479a31f14a958f086e72a85f2
+      internalID: -2039215810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2051
+        width: 127
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cc37f4bd331e6438de689d99cf94a3
+      internalID: -176380269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2051
+        width: 172
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1d51f1236364141aa49db2d7ae778b
+      internalID: 595976765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2021
+        width: 307
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccb7d38b6f59674c96b84c9135e3c1a
+      internalID: 191565712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1991
+        width: 198
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd17bfced74041a4d8fc025b48af16a9
+      internalID: -27910245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1961
+        width: 153
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7a6a416ba94ff4c85c38fa30f1005b
+      internalID: -1711542973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1931
+        width: 194
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef2a7048355669418599c1f23f9b7a6
+      internalID: 1570724269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1901
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0e9b820e92894594fc8e6fcb13f79
+      internalID: -1637324633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1901
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6014dab03199a184887a35ed4a40c88a
+      internalID: -500878631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1901
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586862a47bba1f43bc166ac684e4a31
+      internalID: -1437701822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1901
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8146f12bb4d2194a89ca9a9e8bad66c
+      internalID: 2122201198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1901
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe94c2da0af3e1e49b010e8f77fba1dc
+      internalID: 294868465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1872
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839373e8dd8d0434dae74e45e43880c8
+      internalID: 450909234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1872
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb243106281765642a8f3dc130ab78a4
+      internalID: 1669459463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1872
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc648bf24de4ed4e8ea6e91a8c0229a
+      internalID: -642758402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1872
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad38d79bf22a9d46b06be08806f400c
+      internalID: -1108967521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1872
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4d3e114641d2f4ba511f17df2d99ac
+      internalID: -1908125875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1843
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6ccb0b1f952aa41b5870bda1af5422
+      internalID: 258698687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1854
+        width: 139
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cc7c1e8e9bade40ac176a0095ee5c7
+      internalID: -249479431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1825
+        width: 74
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c92c09ea848cc46b9d0df0de173a13
+      internalID: 1218982346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1825
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f048921e756b85408d729e2e76d7fcd
+      internalID: 1057758021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1750
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a188162efe79a6346a7b88809de8ede1
+      internalID: 1501363690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1750
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef3c5b1d3bb4547a58ececbc6b5eab
+      internalID: 348764823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1795
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeef0c035321374b9bc44b70a51f26f
+      internalID: 931959752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1673
+        width: 114
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b61b483af0de43a34335f2c6d581d
+      internalID: -1720558032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1625
+        width: 229
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95e83c750abd784bb4bd457b6e690b5
+      internalID: -1466998521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1604
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4256a33b185334aa91ebf103780486
+      internalID: 1945685156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1608
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2023fd0b22924a938df34723c4919
+      internalID: 1809615724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1567
+        width: 206
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607167c14b2dbb6449139cf7d0b03622
+      internalID: -478301725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1529
+        width: 206
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8086d6908db8c4ea5c2ceff11e6898
+      internalID: -1839894312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1498
+        width: 208
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04bbede64b171b498fa640ed5fafeda
+      internalID: 1817934069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1468
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a572ee9db45b428d89bd4e693cbcf
+      internalID: -1744189661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1367
+        width: 229
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee82dc0ce89394aa0e4574162e2f67
+      internalID: 303117471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1266
+        width: 233
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01658d90ba0adaa41af4501e19853a40
+      internalID: -1922089705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1165
+        width: 233
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e444025b0c104c8d5d899549453db
+      internalID: 957101988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1064
+        width: 233
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c73442b2efd6845be0b2951204ef49
+      internalID: 1934289405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 963
+        width: 233
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65265e963c28e054bb79ca01aa33cb37
+      internalID: 1548810352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 862
+        width: 236
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bad22292a7e49a4c8270b8a4f0ec88c
+      internalID: -2058815009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 758
+        width: 242
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00333b617c6e3c349bf95bda32342b7f
+      internalID: 1142327705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 737
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4321b3344040bcc45a77ad85ab2721b7
+      internalID: 281072123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 732
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7108bca1ee0dcf8479bb21f16f494023
+      internalID: 1422465384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 684
+        width: 386
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfba3ae7ef7a9d47963790925a83f17
+      internalID: -248026929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 636
+        width: 309
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfc06d66b8c4894e976e37b5d60e580
+      internalID: 836071015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 575
+        width: 187
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84399724652607499c1d001f30ba5e2
+      internalID: 853284084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 545
+        width: 199
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f345f2b8ab883a49b5a690211c40542
+      internalID: -1077446701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 512
+        width: 788
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487d408c46113ee488cfbb68e78f4718
+      internalID: -548243130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 464
+        width: 151
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152195c57b1f5d42b4ddea41dedf8f2
+      internalID: -1192501404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 426
+        width: 126
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0f2c8b06d91aa4a97e8d1f1ff7ff46
+      internalID: 500511193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 380
+        width: 99
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938b5725a10696a4f8a601a5551ab7f1
+      internalID: 2123187993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 343
+        width: 152
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872378a194175e240960922f01e99208
+      internalID: -386530759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_61
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 324
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29291754a13fa2147b441c908a900efe
+      internalID: 873289587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 268
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b89e197750a3634fa36dc8bcfb8b5e8
+      internalID: -1852063009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_63
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 288
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093355d604563794cabe19810b93a9c4
+      internalID: 1434349052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 249
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6570fb9d454af0141af6cd0f348dec16
+      internalID: 984246788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 231
+        width: 228
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa336a388574e91488377ab9d8e2bb87
+      internalID: -1105545601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Five Nights at Freddys - Camera Text_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 429
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2efd49a6e21b4f45a6128e584b5db6d
+      internalID: -1147170919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Five Nights at Freddys - Camera Text_0: -1571243066
+      PC Computer - Five Nights at Freddys - Camera Text_1: 847732992
+      PC Computer - Five Nights at Freddys - Camera Text_10: 1545746950
+      PC Computer - Five Nights at Freddys - Camera Text_11: -2039215810
+      PC Computer - Five Nights at Freddys - Camera Text_12: -176380269
+      PC Computer - Five Nights at Freddys - Camera Text_13: 595976765
+      PC Computer - Five Nights at Freddys - Camera Text_14: 191565712
+      PC Computer - Five Nights at Freddys - Camera Text_15: -27910245
+      PC Computer - Five Nights at Freddys - Camera Text_16: -1711542973
+      PC Computer - Five Nights at Freddys - Camera Text_17: 1570724269
+      PC Computer - Five Nights at Freddys - Camera Text_18: -1637324633
+      PC Computer - Five Nights at Freddys - Camera Text_19: -500878631
+      PC Computer - Five Nights at Freddys - Camera Text_2: 1262906431
+      PC Computer - Five Nights at Freddys - Camera Text_20: -1437701822
+      PC Computer - Five Nights at Freddys - Camera Text_21: 2122201198
+      PC Computer - Five Nights at Freddys - Camera Text_22: 294868465
+      PC Computer - Five Nights at Freddys - Camera Text_23: 450909234
+      PC Computer - Five Nights at Freddys - Camera Text_24: 1669459463
+      PC Computer - Five Nights at Freddys - Camera Text_25: -642758402
+      PC Computer - Five Nights at Freddys - Camera Text_26: -1108967521
+      PC Computer - Five Nights at Freddys - Camera Text_27: -1908125875
+      PC Computer - Five Nights at Freddys - Camera Text_28: 258698687
+      PC Computer - Five Nights at Freddys - Camera Text_29: -249479431
+      PC Computer - Five Nights at Freddys - Camera Text_3: -2002509842
+      PC Computer - Five Nights at Freddys - Camera Text_30: 1218982346
+      PC Computer - Five Nights at Freddys - Camera Text_31: 1057758021
+      PC Computer - Five Nights at Freddys - Camera Text_32: 1501363690
+      PC Computer - Five Nights at Freddys - Camera Text_33: 348764823
+      PC Computer - Five Nights at Freddys - Camera Text_34: 931959752
+      PC Computer - Five Nights at Freddys - Camera Text_35: -1720558032
+      PC Computer - Five Nights at Freddys - Camera Text_36: -1466998521
+      PC Computer - Five Nights at Freddys - Camera Text_37: 1945685156
+      PC Computer - Five Nights at Freddys - Camera Text_38: 1809615724
+      PC Computer - Five Nights at Freddys - Camera Text_39: -478301725
+      PC Computer - Five Nights at Freddys - Camera Text_4: -150326699
+      PC Computer - Five Nights at Freddys - Camera Text_40: -1839894312
+      PC Computer - Five Nights at Freddys - Camera Text_41: 1817934069
+      PC Computer - Five Nights at Freddys - Camera Text_42: -1744189661
+      PC Computer - Five Nights at Freddys - Camera Text_43: 303117471
+      PC Computer - Five Nights at Freddys - Camera Text_44: -1922089705
+      PC Computer - Five Nights at Freddys - Camera Text_45: 957101988
+      PC Computer - Five Nights at Freddys - Camera Text_46: 1934289405
+      PC Computer - Five Nights at Freddys - Camera Text_47: 1548810352
+      PC Computer - Five Nights at Freddys - Camera Text_48: -2058815009
+      PC Computer - Five Nights at Freddys - Camera Text_49: 1142327705
+      PC Computer - Five Nights at Freddys - Camera Text_5: -29867033
+      PC Computer - Five Nights at Freddys - Camera Text_50: 281072123
+      PC Computer - Five Nights at Freddys - Camera Text_51: 1422465384
+      PC Computer - Five Nights at Freddys - Camera Text_52: -248026929
+      PC Computer - Five Nights at Freddys - Camera Text_53: 836071015
+      PC Computer - Five Nights at Freddys - Camera Text_54: 853284084
+      PC Computer - Five Nights at Freddys - Camera Text_55: -1077446701
+      PC Computer - Five Nights at Freddys - Camera Text_56: -548243130
+      PC Computer - Five Nights at Freddys - Camera Text_57: -1192501404
+      PC Computer - Five Nights at Freddys - Camera Text_58: 500511193
+      PC Computer - Five Nights at Freddys - Camera Text_59: 2123187993
+      PC Computer - Five Nights at Freddys - Camera Text_6: -1659274632
+      PC Computer - Five Nights at Freddys - Camera Text_60: -386530759
+      PC Computer - Five Nights at Freddys - Camera Text_61: 873289587
+      PC Computer - Five Nights at Freddys - Camera Text_62: -1852063009
+      PC Computer - Five Nights at Freddys - Camera Text_63: 1434349052
+      PC Computer - Five Nights at Freddys - Camera Text_64: 984246788
+      PC Computer - Five Nights at Freddys - Camera Text_65: -1105545601
+      PC Computer - Five Nights at Freddys - Camera Text_66: -1147170919
+      PC Computer - Five Nights at Freddys - Camera Text_7: 17098855
+      PC Computer - Five Nights at Freddys - Camera Text_8: -980410881
+      PC Computer - Five Nights at Freddys - Camera Text_9: 1198064021
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
