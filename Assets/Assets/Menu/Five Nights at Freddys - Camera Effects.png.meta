@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 3d56e59f33662e94797011f0650b0655
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11559
+        width: 1280
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0919074b165c0a0478b6aed43e0f682f
+      internalID: 1302195409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10839
+        width: 1280
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d799a759375fa4795862712862e9b3
+      internalID: 2136337625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10114
+        width: 1280
+        height: 713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750bc6f2a95f20f4285689fe44508dd0
+      internalID: -1309885833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9395
+        width: 1280
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e723190d283484da1faabe85d043f5
+      internalID: -1829252593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8669
+        width: 1280
+        height: 713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb34ff0318e2424cb79ede25371bce6
+      internalID: 881015617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7950
+        width: 1280
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd20bb42f4626af488e8d7101622708e
+      internalID: 893482274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7231
+        width: 1280
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38d355f3ac24e64e99feba78925723a
+      internalID: -807484526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6505
+        width: 1280
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd461d8aba1cb409293da1bef1dfac
+      internalID: 1823885972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5786
+        width: 1280
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dc8cd31ee53d1429069c5baed76327
+      internalID: -590952025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5060
+        width: 1280
+        height: 713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8445c4912fe55024dbbccf82c0b0a2be
+      internalID: 2040205551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4341
+        width: 1280
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b042eeffdaa31474e885c74a110296fd
+      internalID: -477981387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3616
+        width: 1280
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2c8164c48c4c946b83506a8f45a199
+      internalID: -428594261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2896
+        width: 1280
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02b6270b14816489586ec401f6d790
+      internalID: 671236708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2177
+        width: 1280
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4323eb5a73bf04aa81e9cd2e1d2be3
+      internalID: 870625106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1451
+        width: 1280
+        height: 707
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f634e3504ebf041b2e052ae9812110
+      internalID: 812668264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 1280
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd1e1aad8f85c946a472ed2c5638b98
+      internalID: -161594138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Five Nights at Freddys - Camera Effects_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 1280
+        height: 713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c597b3d7d08815a4ebcb2f92b5428458
+      internalID: -1322273492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Five Nights at Freddys - Camera Effects_0: 1302195409
+      Five Nights at Freddys - Camera Effects_1: 2136337625
+      Five Nights at Freddys - Camera Effects_10: -477981387
+      Five Nights at Freddys - Camera Effects_11: -428594261
+      Five Nights at Freddys - Camera Effects_12: 671236708
+      Five Nights at Freddys - Camera Effects_13: 870625106
+      Five Nights at Freddys - Camera Effects_14: 812668264
+      Five Nights at Freddys - Camera Effects_15: -161594138
+      Five Nights at Freddys - Camera Effects_16: -1322273492
+      Five Nights at Freddys - Camera Effects_2: -1309885833
+      Five Nights at Freddys - Camera Effects_3: -1829252593
+      Five Nights at Freddys - Camera Effects_4: 881015617
+      Five Nights at Freddys - Camera Effects_5: 893482274
+      Five Nights at Freddys - Camera Effects_6: -807484526
+      Five Nights at Freddys - Camera Effects_7: 1823885972
+      Five Nights at Freddys - Camera Effects_8: -590952025
+      Five Nights at Freddys - Camera Effects_9: 2040205551
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
